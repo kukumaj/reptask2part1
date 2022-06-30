@@ -1,7 +1,7 @@
 1 line step 7 at git_1
 2 line step 7 at git_1
-3 line
-4 line
+3 line step 8 another 2 lines at git_1
+4 line step 8 another 2 lines at git_1
 5 line
 6 line
 7 line
